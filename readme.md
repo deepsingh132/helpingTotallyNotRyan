@@ -1,0 +1,1 @@
+# Just install python and matplotlib with xlsx library and run main.py
